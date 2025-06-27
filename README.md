@@ -13,6 +13,9 @@ Next.js · React · TypeScript · Node.js · Flutter · Dart  · Three.js
 - [bookit](https://github.com/iizz/bookit)
   A reading log app where users can write notes with photos, keywords, and search books by title, author, or ISBN.
 
+- [3d-house-interaction](https://github.com/iizz/3d-house-interaction)
+  A Three.js toy project that loads a house model and allows users to interactively change the color of walls and floors to orange by clicking.
+
 - [three-playground](https://github.com/iizz/three-playground)
   A personal space for experimenting with 3D interaction using Three.js
 
